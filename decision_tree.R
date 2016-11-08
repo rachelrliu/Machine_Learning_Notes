@@ -4,7 +4,7 @@ library(rpart.plot)
 
 divide <- function(data,attr,value){
         #Divides a set on a spefific column(attr)
-        #Build for Iris Case, only handel numeirc values
+        #This function can only handel numeirc values
         set1 <- subset(data,data[,attr] >= value)
         set2 <- subset(data,data[,attr] < value)
         return(list(set1,set2))
