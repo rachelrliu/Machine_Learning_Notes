@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-
+'''
+https://www.kaggle.com/c/allstate-claims-severity
+'''
 import pandas as pd
 import numpy as np
 import xgboost as xgb
