@@ -51,6 +51,8 @@
 - **Numpy Basics** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/Python/Numpy_basics.ipynb)]
 
 ## Applications
+- **Spambase Classification** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/MiniProject/Spambase%20Classification.ipynb)]
+- **kaggle Allstate Competition** Apply xgboosting to predict claims severity [[python](https://github.com/rliiu/Machine_Learning_Notes/blob/master/MiniProject/boost.py)]
 
 ## Articles
 
