@@ -45,7 +45,7 @@
 
 ## Association Rule
 - **Apriori from scratch**
-- ** Using R's arules package (aprori) on tabular data**
+- **Using R's arules package (aprori) on tabular data**
 
 ## Python Programming Tips
 - **Numpy Basics** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/Python/Numpy_basics.ipynb)]
