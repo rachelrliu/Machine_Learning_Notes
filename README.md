@@ -10,8 +10,8 @@ This is one of the continuously updated repositories that documents personal jou
 - [Association Rule](#association-rule)
 - [Applications](#applications)
 - [General](#general)
-	-[Python Programming] (#Python-Programming) 
-	-[Articles](#articles)
+	- [Python Programming](#Python-Programming) 
+	- [Articles](#articles)
 
 ## Data Pre-processing
 - **Feature Extraction** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/FeatureExtraction/EncodingCategoricalFeatures%20.ipynb)]
