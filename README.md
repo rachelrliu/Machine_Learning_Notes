@@ -54,9 +54,9 @@ This is one of the continuously updated repositories that documents personal jou
 - **kaggle Allstate Competition** Implement Gradient Boosting to predict claims severity [[python](https://github.com/rliiu/Machine_Learning_Notes/blob/master/MiniProject/boost.py)]
 
 ## General
-### Python Programming
+#### Python Programming
 - **Numpy Basics** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/Python/Numpy_basics.ipynb)]
-### Articles
+#### Articles
 
 
 
