@@ -52,7 +52,7 @@
 
 ## Applications
 - **Spambase Classification** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/MiniProject/Spambase%20Classification.ipynb)]
-- **kaggle Allstate Competition** Apply xgboosting to predict claims severity [[python](https://github.com/rliiu/Machine_Learning_Notes/blob/master/MiniProject/boost.py)]
+- **kaggle Allstate Competition** Implement Gradient Boosting to predict claims severity [[python](https://github.com/rliiu/Machine_Learning_Notes/blob/master/MiniProject/boost.py)]
 
 ## Articles
 
