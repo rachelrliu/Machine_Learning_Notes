@@ -1,4 +1,5 @@
 # Machine Learning
+This is one of the continuously updated repositories that documents personal journey on learning data science related topics. 
 
 # Sections
 - [Pre-Processing](#data-pre-processing)
@@ -21,7 +22,7 @@
 	- Tf-idf
 
 ## Model Evaluation
--  **Overview of General Performance Metrics of Binary Classifier Systems** [[PDF](http://arxiv.org/pdf/1410.5330.pdf)]
+-  **Overview of General Performance Metrics of Binary Classifier Systems** [[pdf](http://arxiv.org/pdf/1410.5330.pdf)]
 - **Cross-validation**
 
 ## Trees
@@ -32,7 +33,7 @@
 
 ## Clustering
 - **K-means** 
-	- K-means++ from scratch, Elbow method for choosing K.
+	- K-means from scratch, Elbow method for choosing K.
 -  **Gaussian Mixture Model** 
 	- Gaussian Mixture Model from scratch; AIC and BIC for choosing the number of Gaussians
 - **Topic Modeling**
