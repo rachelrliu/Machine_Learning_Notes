@@ -32,20 +32,16 @@
 
 ## Clustering
 - **K-means** 
- 	
-	K-means++ from scratch, Elbow method for choosing K.
+	- K-means++ from scratch, Elbow method for choosing K.
 -  **Gaussian Mixture Model** 
-	
-	Gaussian Mixture Model from scratch; AIC and BIC for choosing the number of Gaussians
+	- Gaussian Mixture Model from scratch; AIC and BIC for choosing the number of Gaussians
 - **Topic Modeling**
-	
-	Topic Modeling with gensim's Latent Dirichlet Allocation(LDA).
+	- Topic Modeling with gensim's Latent Dirichlet Allocation(LDA).
 
 ## Regression and Regularization
 - **Linear Regression**
 - **Ridge and Lasso Regularization**
-	
-	Building intuition on Ridge and Lasso regularization.
+	- Building intuition on Ridge and Lasso regularization.
 
 ## Association Rule
 - **Apriori from scratch**
