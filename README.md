@@ -8,9 +8,10 @@ This is one of the continuously updated repositories that documents personal jou
 - [Clustering](#clustering)
 - [Regression and Regularization](#Regression-and-Regularization)
 - [Association Rule](#association-rule)
-- [Python Programming Tips](#python-programming-tips)
 - [Applications](#applications)
-- [Articles](#articles)
+- [General](#general)
+	-[Python Programming] (#Python-Programming) 
+	-[Articles](#articles)
 
 ## Data Pre-processing
 - **Feature Extraction** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/FeatureExtraction/EncodingCategoricalFeatures%20.ipynb)]
@@ -48,14 +49,14 @@ This is one of the continuously updated repositories that documents personal jou
 - **Apriori from scratch**
 - **Using R's arules package (aprori) on tabular data**
 
-## Python Programming Tips
-- **Numpy Basics** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/Python/Numpy_basics.ipynb)]
-
 ## Applications
 - **Spambase Classification** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/MiniProject/Spambase%20Classification.ipynb)]
 - **kaggle Allstate Competition** Implement Gradient Boosting to predict claims severity [[python](https://github.com/rliiu/Machine_Learning_Notes/blob/master/MiniProject/boost.py)]
 
-## Articles
+## General
+### Python Programming
+- **Numpy Basics** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/Python/Numpy_basics.ipynb)]
+### Articles
 
 
 
