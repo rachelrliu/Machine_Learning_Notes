@@ -10,7 +10,7 @@ This is one of the continuously updated repositories that documents personal jou
 - [Association Rule](#association-rule)
 - [Applications](#applications)
 - [General](#general)
-	- [Python Programming](#Python-Programming) 
+	- [Python Programming](#python-programming) 
 	- [Articles](#articles)
 
 ## Data Pre-processing
