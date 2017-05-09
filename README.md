@@ -17,7 +17,7 @@ This is one of the continuously updated repositories that documents personal jou
 - **Feature Extraction** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/FeatureExtraction/EncodingCategoricalFeatures%20.ipynb)]
 - **Normalization and Standardization** [[iPython Notebook](https://github.com/rliiu/Machine_Learning_Notes/blob/master/FeatureExtraction/Normalization%20and%20Standardization.ipynb)]
 - **Dimension Reduction**
-	- Principal Component Analysis (PCA) 
+	- Principal Component Analysis (PCA) [[iPython Notebook](http://nbviewer.jupyter.org/github/rliiu/Machine_Learning_Notes/blob/master/FeatureExtraction/Principal%20Component%20Analysis%20%28PCA%29.ipynb)]
 	- Linear Discriminant Analysis (LDA) 
 - **Representing Text**
 	- Tf-idf
